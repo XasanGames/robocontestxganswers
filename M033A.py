@@ -1,0 +1,1 @@
+inputed = int(input()); print(-inputed)

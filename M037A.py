@@ -1,0 +1,1 @@
+print("PIIMA olimpiadasiga xush kelibsiz!")
